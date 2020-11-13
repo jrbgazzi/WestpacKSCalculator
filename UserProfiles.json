@@ -1,0 +1,38 @@
+[
+  {
+    "Persona": "Employed Persona 1",
+    "CurrentAge": "30",
+    "EmploymentStatus": "Employed",
+    "Salary": "82000",
+    "KiwiSaverMemberContribution": "4%",
+    "CurrentKiwiSaverBalance": "",
+    "VoluntaryContributions": "",
+    "Frequency": "",
+    "RiskProfile": "Defensive",
+    "SavingsGoalAtRetirement": ""
+  },
+  {
+    "Persona": "Self-employed Persona 1",
+    "CurrentAge": "45",
+    "EmploymentStatus": "Self-employed",
+    "Salary": "",
+    "KiwiSaverMemberContribution": "",
+    "CurrentKiwiSaverBalance": "100000",
+    "VoluntaryContributions": "90",
+    "Frequency": "Fortnightly",
+    "RiskProfile": "Conservative",
+    "SavingsGoalAtRetirement": "290000"
+  },
+  {
+    "Persona": "Not employed Persona 1",
+    "CurrentAge": "55",
+    "EmploymentStatus": "Not employed",
+    "Salary": "",
+    "KiwiSaverMemberContribution": "",
+    "CurrentKiwiSaverBalance": "140000",
+    "VoluntaryContributions": "10",
+    "Frequency": "Annually",
+    "RiskProfile": "Balanced",
+    "SavingsGoalAtRetirement": "200000"
+  }
+]
